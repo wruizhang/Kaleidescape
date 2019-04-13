@@ -1,0 +1,45 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>transparent.png</file>
+        <file>rooms.png</file>
+        <file>options.png</file>
+        <file>start.png</file>
+        <file>background.png</file>
+        <file>exit.png</file>
+        <file>opt.png</file>
+        <file>txtborder.png</file>
+        <file>opt2.png</file>
+        <file>room1bg.png</file>
+        <file>door1.png</file>
+        <file>audioOFF.png</file>
+        <file>audioON.jpg</file>
+        <file>roomsbg.png</file>
+        <file>r2computer.png</file>
+        <file>r2bg.png</file>
+        <file>screen.png</file>
+        <file>apple.png</file>
+        <file>applescramble.png</file>
+        <file>rose.png</file>
+        <file>rosescramble.png</file>
+        <file>room3bg.png</file>
+        <file>bookr3.png</file>
+        <file>blueberry.png</file>
+        <file>ocean.png</file>
+        <file>room4bg.png</file>
+        <file>bookcover.png</file>
+        <file>brocolliscr.png</file>
+        <file>berryscr.png</file>
+        <file>frogscr.png</file>
+        <file>oceanscr.png</file>
+        <file>boorkword.png</file>
+        <file>framer4.png</file>
+        <file>frame.png</file>
+        <file>frog.png</file>
+        <file>broccoli.png</file>
+        <file>endpage.png</file>
+        <file>end.png</file>
+        <file>arrow.png</file>
+        <file>greenarrow.png</file>
+        <file>lock.png</file>
+    </qresource>
+</RCC>

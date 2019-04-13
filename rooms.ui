@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>Rooms</class>
+ <widget class="QDialog" name="Rooms">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>966</width>
+    <height>635</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Dialog</string>
+  </property>
+  <property name="styleSheet">
+   <string notr="true">background-image: url(:/images/r2bg.png);</string>
+  </property>
+  <widget class="QPushButton" name="BacktoMenu">
+   <property name="geometry">
+    <rect>
+     <x>780</x>
+     <y>580</y>
+     <width>141</width>
+     <height>41</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">font: 12pt &quot;Impact&quot;;
+background-color: rgb(23, 7, 255);
+background-image: url(:/images/transparent.png);</string>
+   </property>
+   <property name="text">
+    <string>Back To Main Menu</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="room1">
+   <property name="geometry">
+    <rect>
+     <x>140</x>
+     <y>160</y>
+     <width>71</width>
+     <height>71</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">font: 12pt &quot;Cooper Black&quot;;
+border-image: url(:/images/transparent.png);
+background-color: rgb(97, 104, 155);
+background-image: url(:/images/transparent.png);</string>
+   </property>
+   <property name="text">
+    <string>ROOM  1</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="room2">
+   <property name="geometry">
+    <rect>
+     <x>610</x>
+     <y>190</y>
+     <width>81</width>
+     <height>111</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">font: 12pt &quot;Cooper Black&quot;;
+border-image: url(:/images/transparent.png);
+background-color: rgb(118, 145, 178);
+background-image: url(:/images/transparent.png);</string>
+   </property>
+   <property name="text">
+    <string>Room   2</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="room3">
+   <property name="geometry">
+    <rect>
+     <x>340</x>
+     <y>400</y>
+     <width>51</width>
+     <height>81</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">font: 10pt &quot;Cooper Black&quot;;
+border-image: url(:/images/transparent.png);
+background-color: rgb(103, 137, 140);
+background-image: url(:/images/transparent.png);</string>
+   </property>
+   <property name="text">
+    <string>Room 3</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="room4">
+   <property name="geometry">
+    <rect>
+     <x>500</x>
+     <y>50</y>
+     <width>81</width>
+     <height>51</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">font: 12pt &quot;Cooper Black&quot;;
+border-image: url(:/images/transparent.png);
+background-color: rgb(127, 171, 173);
+background-image: url(:/images/transparent.png);</string>
+   </property>
+   <property name="text">
+    <string>Room   4</string>
+   </property>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
